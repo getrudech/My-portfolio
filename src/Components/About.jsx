@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  " I am a Kenyan student studying computer Science and a part time fashion model. I like to refer to myself as a tech nerd, I have always been enthralled by computers at a young age and over the years I have watched my mere curiosity of tech develop into a deep fascination for their sophistication.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -32,9 +32,9 @@ const description =
  */
 const skillsList = [
   "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
+  "Mobile development",
+  "Data science",
+  "UI/UX design",
   "Mobile user interfaces",
   "Graphic design",
 ];
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "In 2021, I completed a six month course on software development at Moringa School where I got to deepen my understanding in software development. Fun fact: I enjoy silence and poems by Charles Bukowski.";
 
 const About = () => {
   return (
